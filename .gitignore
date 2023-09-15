@@ -39,9 +39,9 @@ luac.out
 *.x86_64
 *.hex
 
-# Especifics files
-English.pak
+# Especific objects
 English_Animations.pak
-language.lsx
+English.pak
 Voice.pak
 VoiceMeta.pak
+BrazilianPortuguese/*.pak
